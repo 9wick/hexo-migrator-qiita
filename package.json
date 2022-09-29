@@ -5,6 +5,10 @@
   "type": "commonjs",
   "main": "./dist/index.js",
   "private": false,
+  "files": [
+    "dist",
+    "src"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
