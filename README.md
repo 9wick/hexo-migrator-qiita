@@ -14,7 +14,7 @@ $ npm install @9wick/hexo-migrator-qiita --save
 Execute the following command after installed. `username` is the Qiita username.
 
 ``` bash
-$ hexo migrate rss <username> [--options]
+$ hexo migrate qiita <username> [--options]
 ```
 
 - **alias**: Populates the `alias` setting in the front-matter, for use with the [hexo-generator-alias](http://github.com/hexojs/hexo-generator-alias) module. This is useful for generating redirects.
