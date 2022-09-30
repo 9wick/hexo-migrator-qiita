@@ -1,6 +1,6 @@
 {
   "name": "@9wick/hexo-migrator-qiita",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "type": "commonjs",
   "main": "./dist/index.js",
