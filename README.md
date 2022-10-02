@@ -19,7 +19,7 @@ $ hexo migrate qiita <username> [--options]
 
 - **alias**: Populates the `alias` setting in the front-matter, for use with the [hexo-generator-alias](http://github.com/hexojs/hexo-generator-alias) module. This is useful for generating redirects.
 - **redirect**: Populates the `redirect` setting in the front-matter, for use with the [hexo-generator-alias](http://github.com/hexojs/hexo-generator-alias) module. This is useful for generating redirects.
-- **addtag**: Import tag from Qiita article.
+- **addtag**: Add 'qiita' tag.
 - **limit**: Maximum number of posts to import from the feed. All posts are imported by default.
     * Example:
   ``` bash
