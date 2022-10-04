@@ -15,6 +15,7 @@
   },
   "repository": {
     "type": "git",
+    "version": "npm run build",
     "url": "git+ssh://git@github.com/9wick/hexo-migrator-qiita.git"
   },
   "keywords": [
